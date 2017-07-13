@@ -7,6 +7,7 @@ var config = {
 
    devServer: {
       inline: true,
+      host: 'crud-react.herokuapp.com',
       port: process.env.PORT || 80
    },
 
