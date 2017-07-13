@@ -1,0 +1,92 @@
+/* */
+
+/*
+.react-bs-table-container {
+  font-family: "Arial";
+  font-size: 11px;
+}
+
+.react-bs-table .react-bs-table-bordered {
+  border: 0px;
+}
+
+
+.react-bs-container-header table{
+}
+
+.react-bs-container-header table thead th{
+  text-align: left;
+  border: 1px solid #eeeeee;
+}
+
+.react-bs-container-body table{
+  }
+
+
+.table-bordered {
+  border-collapse: collapse;
+  box-shadow: inset 0 1px 0 #fff;
+  overflow: hidden;
+  width: 960px;
+}
+
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid #ddd;
+}
+
+.table > thead > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > th,
+.table > tbody > tr > td,
+.table > tfoot > tr > th,
+.table > tfoot > tr > td {
+  padding: 3px;
+}
+
+tbody {
+  overflow: scroll;
+}
+
+.react-bs-container-body tr {
+}
+
+.react-bs-container-body td {
+}
+
+*/
+
+.react-bs-table-container {
+  width: 900px;
+}
+
+.itemNo {
+  width: 3%;
+}
+
+.productCode {
+  width: 14%;
+}
+
+.productName {
+  width: 48%;
+}
+
+.productPrice {
+  width: 30%;
+}
+
+.productName {
+  white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap !important;      /* Opera 4-6 */
+  white-space: -o-pre-wrap !important;    /* Opera 7 */
+  white-space: pre-wrap !important;       /* css-3 */
+  word-wrap: break-word !important;       /* Internet Explorer 5.5+ */
+  white-space: -webkit-pre-wrap !important; /* Newer versions of Chrome/Safari*/
+  word-break: break-all !important;
+  white-space: normal !important;
+}

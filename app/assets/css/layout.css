@@ -1,0 +1,71 @@
+.containerEntryItem {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.containerGrid {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4.formHeader {
+  text-align: center;
+  padding-top: 10px
+}
+
+.profileBox {
+  width: 60%;
+  padding: 5%;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: auto;
+  text-align: center;
+  background-color: #3775e2;
+}
+
+
+/* Entry Barang */
+.react-bs-table-container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.react-bs-table-tool-bar .row div {
+  width: 100%;
+}
+
+.itemNo {
+  width: 3%;
+}
+
+.productCode {
+  width: 14%;
+}
+
+.productName {
+  width: 48%;
+}
+
+.productPrice {
+  width: 20%;
+}
+
+.action {
+  width: 10%;
+}
+
+.productName {
+  white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap !important;      /* Opera 4-6 */
+  white-space: -o-pre-wrap !important;    /* Opera 7 */
+  white-space: pre-wrap !important;       /* css-3 */
+  word-wrap: break-word !important;       /* Internet Explorer 5.5+ */
+  white-space: -webkit-pre-wrap !important; /* Newer versions of Chrome/Safari*/
+  word-break: break-all !important;
+  white-space: normal !important;
+}
